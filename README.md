@@ -16,7 +16,6 @@
 
 ### 🧰 What I Do
 
-### What I Do
 - 🖥️ Infrastructure & System Administration
 - 🔐 Information Security & Access Control
 - 🌐 Networking & Communications
@@ -34,7 +33,7 @@
 | **Helpdesk & ITSM**     | GLPI, Service Desk |
 | **Business Software**   | 1C:Enterprise 8, Directum Enterprise, MS Office |
 | **Telephony & Comms**   | Oktell, Vypress Chat, LiveTex |
-| **DB & CRM**            | Oracle Utilities CC&B,  |
+| **CRM**                 | Oracle Utilities CC&B |
 | **Security**            | Access control systems (ACS), information security basics, compliance |
 
 ---
