@@ -1,7 +1,7 @@
 <h1 align="center"> Victor Pavlenko 🖥️ </h1>
 
 <p align="center">
-  <b>Infrastructure & Information Security Engineer</b><br>
+  <b> IT Infrastructure & InfoSec Engineer</b><br>
 </p>
 
 <p align="center">
